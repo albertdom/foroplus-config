@@ -9,9 +9,14 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 0,
-    "nombre": "",
+    "code": 30,
+    "nombre": "1.5.0",
     "bloqueante": false,
-    "notas": []
+    "notas": [
+      "Toca la hora de un hilo para ir directo al último mensaje",
+      "Toca una cita y saltas al mensaje original",
+      "Ahora puedes recortar una cita antes de responder",
+      "Los mensajes ocupan menos espacio y se lee más de golpe"
+    ]
   }
 }
