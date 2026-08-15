@@ -9,14 +9,13 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 30,
-    "nombre": "1.5.0",
+    "code": 31,
+    "nombre": "1.5.1",
     "bloqueante": false,
     "notas": [
-      "Toca la hora de un hilo para ir directo al último mensaje",
-      "Toca una cita y saltas al mensaje original",
-      "Ahora puedes recortar una cita antes de responder",
-      "Los mensajes ocupan menos espacio y se lee más de golpe"
+      "Arreglada la barra de páginas: ya no aparece en blanco al abrir un hilo",
+      "Si el foro no te deja publicar, ahora te dice el motivo y los segundos que faltan",
+      "Los avisos al crear hilo, editar o borrar también explican qué ha pasado"
     ]
   }
 }
