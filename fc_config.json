@@ -19,9 +19,8 @@
     ]
   },
   "aviso": {
-    "id": "prueba-local",
-    "texto": "Aviso de prueba: si ves esto, el canal funciona.",
-    "fijo": false,
-    "enlace": "https://t.me/foroplus"
+    "id": "segundo-aviso",
+    "texto": "SEGUNDO aviso: este es fijo y no se puede cerrar.",
+    "fijo": true
   }
 }
