@@ -17,5 +17,11 @@
       "Si el foro no te deja publicar, ahora te dice el motivo y los segundos que faltan",
       "Los avisos al crear hilo, editar o borrar también explican qué ha pasado"
     ]
+  },
+  "aviso": {
+    "id": "prueba-local",
+    "texto": "Aviso de prueba: si ves esto, el canal funciona.",
+    "fijo": false,
+    "enlace": "https://t.me/foroplus"
   }
 }
