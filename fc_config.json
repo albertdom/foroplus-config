@@ -16,5 +16,10 @@
       "Si hay algún problema conocido con el foro, ahora te avisamos dentro de la app",
       "Los avisos se cierran con un toque y no vuelven a salir"
     ]
+  },
+  "aviso": {
+    "id": "gracias-2026-08",
+    "texto": "Gracias por confiar en ForoPlus",
+    "fijo": false
   }
 }
