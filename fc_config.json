@@ -17,10 +17,5 @@
       "Si el foro no te deja publicar, ahora te dice el motivo y los segundos que faltan",
       "Los avisos al crear hilo, editar o borrar también explican qué ha pasado"
     ]
-  },
-  "aviso": {
-    "id": "segundo-aviso",
-    "texto": "SEGUNDO aviso: este es fijo y no se puede cerrar.",
-    "fijo": true
   }
 }
