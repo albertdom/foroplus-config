@@ -9,12 +9,13 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 32,
-    "nombre": "1.5.2",
+    "code": 33,
+    "nombre": "1.5.3",
     "bloqueante": false,
     "notas": [
-      "Si hay algún problema conocido con el foro, ahora te avisamos dentro de la app",
-      "Los avisos se cierran con un toque y no vuelven a salir"
+      "Toca una foto de un mensaje para verla a pantalla completa, con zoom",
+      "Comparte cualquier mensaje como una tarjeta, con su enlace incluido",
+      "El botón de la cabecera del hilo ahora comparte en vez de abrir el navegador"
     ]
   }
 }
