@@ -9,13 +9,15 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 33,
-    "nombre": "1.5.3",
+    "code": 34,
+    "nombre": "1.5.4",
     "bloqueante": false,
     "notas": [
-      "Toca una foto de un mensaje para verla a pantalla completa, con zoom",
-      "Comparte cualquier mensaje como una tarjeta, con su enlace incluido",
-      "El botón de la cabecera del hilo ahora comparte en vez de abrir el navegador"
+      "Ya puedes ignorar a alguien desde su mensaje o su perfil, y queda guardado en tu cuenta de ForoCoches",
+      "Los ignorados se aplican nada más entrar: antes había que reiniciar la app",
+      "El botón de compartir del hilo crea una tarjeta con el título y el primer mensaje",
+      "La firma «Enviado desde ForoPlus» ahora viene apagada; puedes encenderla en Opciones",
+      "«Favoritos» pasa a llamarse «Suscripciones», y la app vuelve a llamarse solo ForoPlus"
     ]
   }
 }
