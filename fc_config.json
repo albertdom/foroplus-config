@@ -13,10 +13,10 @@
     "nombre": "1.5.6",
     "bloqueante": false,
     "notas": [
+      "Las citas muy largas se pliegan: tócalas en “Ver cita completa” para leerlas enteras",
       "Los títulos ya no se cortan: tres líneas en el listado y, en la cabecera del hilo, tócalo y se despliega entero",
-      "Los emoticonos del foro se ven a su tamaño y alineados con el texto, ya no diminutos y torcidos",
-      "Los audios de Vocaroo se ven bien y ya no dejan un hueco en blanco en mitad del mensaje",
       "En el listado sale la foto de perfil de cada usuario; quien no tenga, el avatar del foro",
+      "Los emoticonos del foro y los audios de Vocaroo se ven como deben, ya no diminutos ni ocupando media pantalla",
       "En modo oscuro se vuelven a ver el reloj y la batería de la barra de arriba"
     ]
   }
