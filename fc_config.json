@@ -9,15 +9,13 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 34,
-    "nombre": "1.5.4",
+    "code": 35,
+    "nombre": "1.5.5",
     "bloqueante": false,
     "notas": [
-      "Ya puedes ignorar a alguien desde su mensaje o su perfil, y queda guardado en tu cuenta de ForoCoches",
-      "Los ignorados se aplican nada más entrar: antes había que reiniciar la app",
-      "El botón de compartir del hilo crea una tarjeta con el título y el primer mensaje",
-      "La firma «Enviado desde ForoPlus» ahora viene apagada; puedes encenderla en Opciones",
-      "«Favoritos» pasa a llamarse «Suscripciones», y la app vuelve a llamarse solo ForoPlus"
+      "Modo oscuro. Elígelo en Opciones → Tema: claro, oscuro o el del sistema",
+      "Los tuits y los vídeos de YouTube también se ven en oscuro (Instagram y TikTok siguen en claro: no tienen modo oscuro)",
+      "Una línea separa cada hilo del listado, para leerlo más cómodo"
     ]
   }
 }
