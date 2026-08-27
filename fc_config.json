@@ -9,15 +9,15 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 36,
-    "nombre": "1.5.6",
+    "code": 37,
+    "nombre": "1.5.7",
     "bloqueante": false,
     "notas": [
-      "Las citas muy largas se pliegan: tócalas en “Ver cita completa” para leerlas enteras",
-      "Los títulos ya no se cortan: tres líneas en el listado y, en la cabecera del hilo, tócalo y se despliega entero",
-      "En el listado sale la foto de perfil de cada usuario; quien no tenga, el avatar del foro",
-      "Los emoticonos del foro y los audios de Vocaroo se ven como deben, ya no diminutos ni ocupando media pantalla",
-      "En modo oscuro se vuelven a ver el reloj y la batería de la barra de arriba"
+      "Los vídeos ya no se cortan: el que estés viendo sigue sonando en una ventanita mientras sigues leyendo el hilo",
+      "Nuevo botón TOP con los hilos del momento de cada subforo, y pestaña Popurrí para mezclar en una sola lista los subforos que tú elijas",
+      "Los spoilers vuelven a estar tapados (tócalos para verlos) y los GIFs se mueven, emoticonos animados incluidos",
+      "Mensajes privados: ya se ve a quién estás respondiendo, se puede escribir en toda la pantalla y el remitente es el correcto",
+      "Arreglado: las citas ya se distinguen en modo oscuro, la barra de desplazamiento del hilo se puede arrastrar y tirando hacia abajo se recarga"
     ]
   }
 }
