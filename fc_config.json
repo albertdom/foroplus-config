@@ -9,15 +9,15 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 37,
-    "nombre": "1.5.7",
+    "code": 38,
+    "nombre": "1.5.8",
     "bloqueante": false,
     "notas": [
-      "Los vídeos ya no se cortan: el que estés viendo sigue sonando en una ventanita mientras sigues leyendo el hilo",
-      "Nuevo botón TOP con los hilos del momento de cada subforo, y pestaña Popurrí para mezclar en una sola lista los subforos que tú elijas",
-      "Los spoilers vuelven a estar tapados (tócalos para verlos) y los GIFs se mueven, emoticonos animados incluidos",
-      "Mensajes privados: ya se ve a quién estás respondiendo, se puede escribir en toda la pantalla y el remitente es el correcto",
-      "Arreglado: las citas ya se distinguen en modo oscuro, la barra de desplazamiento del hilo se puede arrastrar y tirando hacia abajo se recarga"
+      "Al citar un mensaje se conservan sus fotos, los emoticonos y el formato (antes se perdían y salían recuadros raros)",
+      "Los enlaces de ForoCoches pueden abrirse aquí en vez de en el navegador: la app te explica cómo activarlo",
+      "Puedes ordenar y esconder los subforos de arriba y los botones de abajo a tu gusto",
+      "Desde el perfil de cualquiera puedes ver sus hilos y sus mensajes",
+      "Arreglado: citar y arrepentirte ya no deja la cita pegada al siguiente mensaje"
     ]
   }
 }
