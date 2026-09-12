@@ -9,15 +9,15 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 38,
-    "nombre": "1.5.8",
+    "code": 39,
+    "nombre": "1.5.9",
     "bloqueante": false,
     "notas": [
-      "Al citar un mensaje se conservan sus fotos, los emoticonos y el formato (antes se perdían y salían recuadros raros)",
-      "Los enlaces de ForoCoches pueden abrirse aquí en vez de en el navegador: la app te explica cómo activarlo",
-      "Puedes ordenar y esconder los subforos de arriba y los botones de abajo a tu gusto",
-      "Desde el perfil de cualquiera puedes ver sus hilos y sus mensajes",
-      "Arreglado: citar y arrepentirte ya no deja la cita pegada al siguiente mensaje"
+      "Ya puedes subir fotos desde la propia app, sin salir a la web",
+      "Los enlaces de Instagram, X, TikTok y YouTube se publican como tarjeta, sin hacer nada",
+      "Ver solo los mensajes de una persona dentro de un hilo, desde el menú de un mensaje",
+      "Los privados tienen su botón en la barra de abajo, y puedes ignorar un hilo concreto",
+      "Arreglado: entrar con VPN, el parpadeo de las fotos, el audio que seguía sonando al salir y el atrás que te sacaba de la app"
     ]
   }
 }
