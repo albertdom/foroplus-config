@@ -9,15 +9,15 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 40,
-    "nombre": "1.6.0",
+    "code": 41,
+    "nombre": "1.6.1",
     "bloqueante": false,
     "notas": [
-      "Varias cuentas en la app: cambia de una a otra sin volver a escribir la contraseña",
-      "Tu avatar en la barra de abajo, y al responder ves con qué cuenta vas a publicar",
-      "Para añadirlas: Perfil, Añadir otra cuenta (hasta 5)",
-      "Cada cuenta guarda lo suyo: sus hilos leídos, sus citas y sus búsquedas",
-      "Arreglado: cerrar sesión ya funciona siempre, aunque el foro no responda"
+      "Icono nuevo",
+      "Arreglado: había hilos que no salían por ninguna parte. El filtro de palabras escondía sin querer todo lo que llevara app, apps, Apple o WhatsApp en el título",
+      "La estrella del hilo ya dice de verdad si estás suscrito",
+      "Añadir una segunda cuenta ya funciona",
+      "Los correos dentro de mensajes y privados ya se leen: antes salía [email protected]"
     ]
   }
 }
