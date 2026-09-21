@@ -9,15 +9,15 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 41,
-    "nombre": "1.6.1",
+    "code": 42,
+    "nombre": "1.7.0",
     "bloqueante": false,
     "notas": [
-      "Icono nuevo",
-      "Arreglado: había hilos que no salían por ninguna parte. El filtro de palabras escondía sin querer todo lo que llevara app, apps, Apple o WhatsApp en el título",
-      "La estrella del hilo ya dice de verdad si estás suscrito",
-      "Añadir una segunda cuenta ya funciona",
-      "Los correos dentro de mensajes y privados ya se leen: antes salía [email protected]"
+      "Ya puedes DESCARGAR un hilo entero y leerlo aunque lo borren del foro. Lo tienes en Descargados, con lo que ocupa y un botón para borrarlo",
+      "Citas y menciones se ven de otra manera: ahora cada aviso dice quién, en qué hilo y qué dijo, y solo se marca como leído el que tocas",
+      "Buscar en los mensajes ya devuelve MENSAJES, del más reciente al más antiguo, en vez de los hilos que los contienen",
+      "Al responder ya se ve con qué cuenta vas a publicar, y la barra de abajo es más grande",
+      "Se van las notificaciones con la app cerrada: daban problemas y hacían que la app se cerrase sola. Los avisos siguen saliendo al abrirla"
     ]
   }
 }
