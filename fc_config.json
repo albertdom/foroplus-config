@@ -9,15 +9,15 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 42,
-    "nombre": "1.7.0",
+    "code": 43,
+    "nombre": "1.8.0",
     "bloqueante": false,
     "notas": [
-      "Ya puedes DESCARGAR un hilo entero y leerlo aunque lo borren del foro. Lo tienes en Descargados, con lo que ocupa y un botón para borrarlo",
-      "Citas y menciones se ven de otra manera: ahora cada aviso dice quién, en qué hilo y qué dijo, y solo se marca como leído el que tocas",
-      "Buscar en los mensajes ya devuelve MENSAJES, del más reciente al más antiguo, en vez de los hilos que los contienen",
-      "Al responder ya se ve con qué cuenta vas a publicar, y la barra de abajo es más grande",
-      "Se van las notificaciones con la app cerrada: daban problemas y hacían que la app se cerrase sola. Los avisos siguen saliendo al abrirla"
+      "Ya puedes crear ENCUESTAS al abrir un hilo, y al escribir un emoticono como :roto2: se convierte en el dibujo al momento",
+      "Las citas se pueden pasar a TEXTO para recortarlas, ponerlas en negrita o colocarlas donde quieras dentro de tu respuesta",
+      "\"Ver solo sus mensajes\" enseña sus mensajes completos del hilo, con lo que citaban. En los privados hay carpeta de Enviados y se ve la conversación anterior",
+      "Las citas y menciones dicen el día de verdad (ya no sale \"hace 1 h\" en una de ayer) y al volver a la lista sigues donde estabas",
+      "Arreglados el emoticono que parpadeaba, las encuestas que no salían en tus propios hilos y el cuelgue al compartir hilos con GIFs enormes"
     ]
   }
 }
