@@ -9,15 +9,15 @@
   "postAuthorNew": "[id^=\"postmenu_\"] a[href*=\"member.php\"]",
   "postContainerNew": "div.postbit_wrapper",
   "actualizacion": {
-    "code": 45,
-    "nombre": "1.10.0",
+    "code": 46,
+    "nombre": "1.11.0",
     "bloqueante": false,
     "notas": [
-      "Nueva cabecera en los hilos: el título se lee entero y arriba ves en qué subforo estás (tócalo para ir a él). Descargar y compartir pasan al menú ⋮",
-      "En la lista de hilos, un sobre como el de la web del foro: rojo si hay mensajes nuevos, gris si no, con un punto si has participado y un candado si está cerrado",
-      "«Ver solo sus mensajes» funciona también en los hilos largos de preguntas: salen todos sus mensajes completos, no solo los 25 últimos",
-      "Arreglado: el botón atrás entre páginas de un hilo a veces no hacía nada o saltaba a la primera, y al volver desde los hilos del momento acababas en General",
-      "Arreglado: tras abrir un hilo y volver, al refrescar podían salir hilos de otro subforo"
+      "Barra de abajo nueva: solo cuatro botones (Inicio, Avisos, Privados y Suscripciones). Todo lo demás está en tu avatar, arriba a la derecha, y en Opciones puedes elegir qué va abajo",
+      "Citas y Menciones, juntas en «Avisos»",
+      "En la lista de hilos, debajo de la hora, quién escribió el último mensaje (se puede apagar en Opciones → Apariencia)",
+      "Perfiles más completos: título, fecha de alta entera, firma y «Sobre mí» (coche, ubicación…)",
+      "Nuevo «Mis mensajes», y en los mensajes de un usuario ya puedes bajar hasta el final, no solo los 25 primeros"
     ]
   }
 }
